@@ -1,0 +1,2 @@
+manter o exe como executar como administrador
+salvar um bat em startup
